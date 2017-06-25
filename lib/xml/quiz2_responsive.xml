@@ -166,7 +166,7 @@
 			
 			<fb id="fail" event="">	
                 <box id="fb" position="relative" target="col2" x="0" margin-top="150" clear="both" anim="show" animtime="0.5">
-					<!--<image id="failimage" position="relative" x="0" y="0" margin-bottom="30" anim="none" class="img-responsive"><![CDATA[lib/assets/finance.jpg]]></image>-->
+					<!--<image id="failimage" position="relative" x="0" y="0" margin-bottom="30" anim="none" class="img-responsive"><![CDATA[lib/assets/nasa_fail.jpg]]></image>-->
 
 					<text id="txt1" position="relative" anim="none" margin-bottom="30"><![CDATA[<p class="p_24">That is incorrect.</p><p>Feedback 1A for incorrect answer goes here.</p>]]></text>
 			
@@ -221,7 +221,7 @@
 			
 			<fb id="fail" event="">	
 				<box id="fb" position="relative" target="col2" x="0" margin-top="150" clear="both" anim="show" animtime="0.5">
-					<!--<image id="failimage" position="relative" x="0" y="0" margin-bottom="30" anim="none" class="img-responsive"><![CDATA[lib/assets/finance.jpg]]></image>-->
+					<!--<image id="failimage" position="relative" x="0" y="0" margin-bottom="30" anim="none" class="img-responsive"><![CDATA[lib/assets/nasa_fail.jpg]]></image>-->
 
 					<text id="txt1" position="relative" anim="none" margin-bottom="30"><![CDATA[<p class="p_24">That is incorrect.</p><p>Feedback 2A for incorrect answer goes here.</p>]]></text>
 			
@@ -276,7 +276,7 @@
 			
 			<fb id="fail" event="">	
 				<box id="fb" position="relative" target="col2" x="0" margin-top="150" clear="both" anim="show" animtime="0.5">
-					<!--<image id="failimage" position="relative" x="0" y="0" margin-bottom="30" anim="none" class="img-responsive"><![CDATA[lib/assets/finance.jpg]]></image>-->
+					<!--<image id="failimage" position="relative" x="0" y="0" margin-bottom="30" anim="none" class="img-responsive"><![CDATA[lib/assets/nasa_fail.jpg]]></image>-->
 
 					<text id="txt1" position="relative" anim="none" margin-bottom="30"><![CDATA[<p class="p_24">That is incorrect.</p><p>Feedback 3A for incorrect answer goes here.</p>]]></text>
 			
@@ -331,7 +331,7 @@
 			
 			<fb id="fail" event="">	
 				<box id="fb" position="relative" target="col2" x="0" margin-top="150" clear="both" anim="show" animtime="0.5">
-					<!--<image id="failimage" position="relative" x="0" y="0" margin-bottom="30" anim="none" class="img-responsive"><![CDATA[lib/assets/finance.jpg]]></image>-->
+					<!--<image id="failimage" position="relative" x="0" y="0" margin-bottom="30" anim="none" class="img-responsive"><![CDATA[lib/assets/nasa_fail.jpg]]></image>-->
 
 					<text id="txt1" position="relative" anim="none" margin-bottom="30"><![CDATA[<p class="p_24">That is incorrect.</p><p>Feedback 4A for incorrect answer goes here.</p>]]></text>
 			
@@ -386,7 +386,7 @@
 			
 			<fb id="fail" event="">	
 				<box id="fb" position="relative" target="col2" x="0" margin-top="150" clear="both" anim="show" animtime="0.5">
-					<!--<image id="failimage" position="relative" x="0" y="0" margin-bottom="30" anim="none" class="img-responsive"><![CDATA[lib/assets/finance.jpg]]></image>-->
+					<!--<image id="failimage" position="relative" x="0" y="0" margin-bottom="30" anim="none" class="img-responsive"><![CDATA[lib/assets/nasa_fail.jpg]]></image>-->
 
 					<text id="txt1" position="relative" anim="none" margin-bottom="30"><![CDATA[<p class="p_24">That is incorrect.</p><p>Feedback 5A for incorrect answer goes here.</p>]]></text>
 			
@@ -442,7 +442,7 @@
 			
 			<fb id="fail" event="">	
 				<box id="fb" position="relative" target="col2" x="0" margin-top="150" clear="both" anim="show" animtime="0.5">
-					<!--<image id="failimage" position="relative" x="0" y="0" margin-bottom="30" anim="none" class="img-responsive"><![CDATA[lib/assets/finance.jpg]]></image>-->
+					<!--<image id="failimage" position="relative" x="0" y="0" margin-bottom="30" anim="none" class="img-responsive"><![CDATA[lib/assets/nasa_fail.jpg]]></image>-->
 
 					<text id="txt1" position="relative" anim="none" margin-bottom="30"><![CDATA[<p class="p_24">That is incorrect.</p><p>Feedback 6A for incorrect answer goes here.</p>]]></text>
 			
@@ -498,7 +498,7 @@
 			
 			<fb id="fail" event="">	
 				<box id="fb" position="relative" target="col2" x="0" margin-top="150" clear="both" anim="show" animtime="0.5">
-					<!--<image id="failimage" position="relative" x="0" y="0" margin-bottom="30" anim="none" class="img-responsive"><![CDATA[lib/assets/finance.jpg]]></image>-->
+					<!--<image id="failimage" position="relative" x="0" y="0" margin-bottom="30" anim="none" class="img-responsive"><![CDATA[lib/assets/nasa_fail.jpg]]></image>-->
 
 					<text id="txt1" position="relative" anim="none" margin-bottom="30"><![CDATA[<p class="p_24">That is incorrect.</p><p>Feedback 7A for incorrect answer goes here.</p>]]></text>
 			
@@ -553,7 +553,7 @@
 			
 			<fb id="fail" event="">	
 				<box id="fb" position="relative" target="col2" x="0" margin-top="150" clear="both" anim="show" animtime="0.5">
-					<!--<image id="failimage" position="relative" x="0" y="0" margin-bottom="30" anim="none" class="img-responsive"><![CDATA[lib/assets/finance.jpg]]></image>-->
+					<!--<image id="failimage" position="relative" x="0" y="0" margin-bottom="30" anim="none" class="img-responsive"><![CDATA[lib/assets/nasa_fail.jpg]]></image>-->
 
 					<text id="txt1" position="relative" anim="none" margin-bottom="30"><![CDATA[<p class="p_24">That is incorrect.</p><p>Feedback 8A for incorrect answer goes here.</p>]]></text>
 			
@@ -609,7 +609,7 @@
 			
 			<fb id="fail" event="">	
 				<box id="fb" position="relative" target="col2" x="0" margin-top="150" clear="both" anim="show" animtime="0.5">
-					<!--<image id="failimage" position="relative" x="0" y="0" margin-bottom="30" anim="none" class="img-responsive"><![CDATA[lib/assets/finance.jpg]]></image>-->
+					<!--<image id="failimage" position="relative" x="0" y="0" margin-bottom="30" anim="none" class="img-responsive"><![CDATA[lib/assets/nasa_fail.jpg]]></image>-->
 
 					<text id="txt1" position="relative" anim="none" margin-bottom="30"><![CDATA[<p class="p_24">That is incorrect.</p><p>Feedback 9A for incorrect answer goes here.</p>]]></text>
 			
@@ -665,7 +665,7 @@
 			
 			<fb id="fail" event="">	
 				<box id="fb" position="relative" target="col2" x="0" margin-top="150" clear="both" anim="show" animtime="0.5">
-					<!--<image id="failimage" position="relative" x="0" y="0" margin-bottom="30" anim="none" class="img-responsive"><![CDATA[lib/assets/nasa_incorrect2.jpg]]></image>-->
+					<!--<image id="failimage" position="relative" x="0" y="0" margin-bottom="30" anim="none" class="img-responsive"><![CDATA[lib/assets/nasa_fail.jpg]]></image>-->
 
 					<text id="txt1" position="relative" anim="none" margin-bottom="30"><![CDATA[<p class="p_24">That is incorrect.</p><p>Feedback 10A for incorrect answer goes here.</p>]]></text>
 			
@@ -684,7 +684,7 @@
 
 					<text id="timeoutTxt" position="relative" x="10" margin-top="30" margin-bottom="20" anim="none"><![CDATA[<p class="p_42 grey">Times up!</p>]]></text>
 			
-					<button id="startAgainBtn" position="relative" x="10" margin-bottom="30" height="40" width="100" anim="none" event="btnover,restart"><![CDATA[Start again]]></button>
+					<button id="startAgainBtn" position="relative" x="10" margin-bottom="30" height="40" width="100" anim="none" event="btnover,restart"><![CDATA[Restart]]></button>
 				</box>
 			</box>
         </timeout>
